@@ -44,7 +44,7 @@ const HeaderForm = () => {
         }
     }, [searchWatingValue])
 
-    console.log(searchResult);
+
 
 
     return (

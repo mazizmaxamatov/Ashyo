@@ -2,10 +2,10 @@
 import { instance } from "@/hooks/instance"
 import { useQuery } from "@tanstack/react-query"
 
-export const getBanners = () => {
+export const getProducts = (api:string) => {
     const {data = [], isLoading, isError} = useQuery(({
-        queryKey:['banners'],
-        queryFn: () => instance().get("/banners").then(res => res.data)
+        queryKey:['products'],
+        queryFn: () => instance().get(`${api}`).then(res => res.data.items)
     }))
 
     return{data, isLoading, isError}
