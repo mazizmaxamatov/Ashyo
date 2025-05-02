@@ -18,7 +18,7 @@ const ProductItem: FC<{ item: ProductType }> = ({ item }) => {
     return (
         <>
             <div onClick={() => handleClick()} className="relative product-img-wrapper bg-[#ebeff3] py-[43px] rounded-[6px] w-full flex items-center justify-center mb-[16px]">
-                <Image className='w-[202px] h-[202px]' src={`${IMG_API}/${item.image}`} alt={item.name} width={202} height={202} priority />
+                <Image className='w-[202px] h-[202px] object-contain' src={`${IMG_API}/${item.image}`} alt={item.name} width={202} height={202} priority />
                 {item.is_aksiya && <span className='absolute top-[21px] left-[25px] text-[14px] bg-[#ffffff] font-semibold text-[#EB1504] py-[7px] px-[10px] rounded-[5px]'>Aksiyada</span>}
             </div>
             <div className="">

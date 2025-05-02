@@ -32,7 +32,7 @@ const SinglePage = () => {
                     <h2 className='my-[27px] text-[32px] font-bold'>{singleProduct.name}</h2>
                     <div className=" justify-between flex flex-col md:flex-row">
                         <div className="w-[47%] h-[430px] bg-[#EBEFF3] flex items-center justify-center relative">
-                            <Image className='w-[341px] h-[341px] ' src={`${IMG_API}/${singleProduct.image}`} alt='Single img' width={341} height={341} />
+                            <Image className='w-[341px] h-[341px] object-contain' src={`${IMG_API}/${singleProduct.image}`} alt='Single img' width={341} height={341} />
                             <div className="absolute top-[26px] right-[31px] flex gap-[20px] ">
                                 <button><CompareIcon /></button>
                                 <button><LikeIcon /></button>
