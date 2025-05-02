@@ -1,12 +1,14 @@
 import Products from "@/components/Products/Products";
 import BrandCategory from "@/modules/BrandCategory";
 import Brands from "@/modules/Brands/index";
-import Header from "@/modules/Header";
+
 import Hero from "@/modules/Hero";
 import Naushnik from "@/modules/Naushnik";
-import Image from "next/image";
+
 
 export default function Home() {
+  
+  
   return (
     <>     
       <Hero/>

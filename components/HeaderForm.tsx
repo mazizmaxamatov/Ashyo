@@ -7,8 +7,9 @@ import { useTranslations } from 'next-intl'
 import { Context } from '@/context/Context'
 import { instance } from '@/hooks/instance'
 import debounce from '@/hooks/debouce'
-import Link from 'next/link'
+
 import { HeaderSearchType } from '@/types/HeaderCenterType'
+import { Link } from '@/i18n/navigation'
 
 const HeaderForm = () => {
     const t = useTranslations("HeaderCenterContent")

@@ -18,7 +18,7 @@
     justify-content: center;
     border-radius: 6px;
     transition: all 0.3s;
-    cursor: pointer;
+    cursor: pointer;;
 }
 
 .brands-iteam:hover{
