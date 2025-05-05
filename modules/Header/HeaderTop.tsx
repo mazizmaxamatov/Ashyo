@@ -38,9 +38,9 @@ const HeaderTop = () => {
               <span>{t("tashkent")}</span>
             </div>
           </Link>
-          <Link href="/">{t("about-us")}</Link>
-          <Link href="/">{t("products")}</Link>
-          <Link href="/">{t("contacts")}</Link>
+          <Link href="/pages/about" id='about'>{t("about-us")}</Link>
+          <Link href="/pages/product" id='product'>{t("products")}</Link>
+          <Link href="/pages/contacts" id='contacts'>{t("contacts")}</Link>
         </nav>
         <div className="flex items-center gap-4">
           <Link href="tel:+998711234567" className="text-[15px]">
@@ -69,9 +69,11 @@ export default HeaderTop
 
 
 
+{/* <Link href={"/aboutus"} className="item" id="about" >{t("about-us")}</Link> */}
 
-
-
+ {/* <Link href={"/aboutpage"} className='item' id='aboutpage'>{t("about-us")}</Link>
+ <Link href={"/productspage"} className='item' id='productspage'>{t("products")}</Link>
+ <Link href={"/contactspage"} className='item' id='contactspage'>{t("contacts")}</Link> */}
 
  // <HeaderTopStyle>
     //   <div className="containers header-top">

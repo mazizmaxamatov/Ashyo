@@ -17,7 +17,7 @@ import { getCookie } from 'cookies-next';
 const Hero = () => {
     const { data: banners } = getBanners();
      const [token, setToken] = useState(getCookie("NEXT_TOKEN") || false)
-     console.log(token);
+     
      
 
     return (
@@ -40,7 +40,7 @@ const Hero = () => {
                                 <Button title='Batafsil' />
                             </div>
                             <Image
-                                className='absolute w-[500px] h-[600px] bottom-0 object-contain right-0'
+                                className='absolute w-[500px] h-[600px] bottom-0 object-contain right-0  '
                                 src={`${IMG_API}/${item.image}`}
                                 alt='Render Img'
                                 width={500}

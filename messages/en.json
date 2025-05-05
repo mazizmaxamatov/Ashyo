@@ -8,6 +8,102 @@
     "HeaderCenterContent": {
         "category": "Category",
         "placeholder": "What are you looking for?"
+    },
+    "FooterCantent": {
+        "footer1": "We are on social media",
+        "footer2": "Download the mobile app",
+        "footer3": "© 2022 Ashyo — a registered and licensed brand",
+        "footer4": "Menu",
+        "footer5": "About Ashyo",
+        "footer6": "Terms of Use",
+        "footer7": "Privacy and Security Policy",
+        "footer8": "Product and Goods Return Policy",
+        "footer9": "Contact Us",
+        "footer10": "Contacts",
+        "footer11": "Do you have any questions?",
+        "footer12": "Ask me questions that interest you"
+    },
+    "AuthCantent": {
+        "auth1": "Login",
+        "auth2": "Register",
+        "auth3": "Email",
+        "auth4": "Password",
+        "auth5": "Enter you email",
+        "auth6": "Enter you password",
+        "auth7": "FullName",
+        "auth8": "Enter your Fullname"
+    },
+    "NaushnikCantent": {
+        "naushkik1": "You don't have to spend a lot of money to enjoy the pleasure of music!",
+        "naushkik2": "More details or simply Details"
+    },
+    "IdCantent": {
+        "id1": "Home",
+        "id2": "Smartphones",
+        "id3": "Price",
+        "id4":"UZS",
+        "id5":"Installment from 456,999 UZS/month",
+        "id6":"Add to cart",
+        "id7":"Buy now",
+        "id8": "Delivery across Uzbekistan",
+        "id9": "You can pick it up from the store",
+        "id10": "Estimated delivery time: 1 to 3 days......",
+        "id11": "Phone specifications",
+        "id12": "Customer reviews",
+        "id13": "Recently viewed products"
+    },
+    "PageCantent":{
+        "page1":"Most popular product",
+        "page2":"Product",
+        "page3":"Sale product",
+        "page4":"Promotional products / Sale items",
+        "page5":"Recently viewed products"
+    },
+    "AbputCantent":{
+        "about1":"Home",
+        "about2":"About Ashyo",
+        "about3":"Ashyo was founded in 2022 in Tashkent",
+        "about4":"Installment payment",
+        "about5":"Convenient online payment plan for all electronics and home appliances at Ashyo",
+        "about6":"Payment methods",
+        "about7":"Pay in a convenient way for you: in-store, via Click or Payme.",
+        "about8":"Delivery",
+        "about9":"Delivery terms at Ashyo",
+        "about10":"Product warranty",
+        "about11":"Learn everything about the warranty and return policy of the Ashyo online store",
+        "about12":"Help",
+        "about13":"If you have any questions, feel free to ask",
+        "about14":"Ashyo",
+        "about15":"Ashyo offers household appliances and electronics at market prices. For the past 2 months, it has been providing customers with a wide range of products, guaranteed quality, and reliable service.",
+        "about16":"Ashyo was founded in 2022 in Tashkent. As of today, 26 stores are operating in the capital and regions.",
+        "about17":"You can purchase products in any convenient way: at chain stores or through the website.An online installment plan is available for household appliances.A passport is required to complete the registration",
+        "about18":"Legal entities can make purchases via bank transfer — most importantly, with no extra fees",
+        "about19":"Recently viewed products"
+    },
+    "ContactCantent":{
+        "contact1":"Home",
+        "contact2":"Feedback / Contact Us",
+        "contact3":"Share your feedback about our work or leave your question in the comment box",
+        "contact4":"First Name",
+        "contact5":"Phone number",
+        "contact6":"Last Name / Surname",
+        "contact7":"Email",
+        "contact8":"Leave your comment",
+        "contact9":"Submit / Send",
+        "contact10":"Recently viewed products"
+    },
+    "ProductCantent":{
+        "product1":"Home",
+        "product2":"Smartphones",
+        "product3":"Price",
+        "product4":"UZS",
+        "product5":"from",
+        "product6":"to / up to",
+        "product7":"Brand",
+        "product8":"RAM (Random Access Memory)",
+        "product9":"ROM (Internal Storage)",
+        "product10":"Battery capacity",
+        "product11":"Recently viewed products"
     }
-    
 }
+

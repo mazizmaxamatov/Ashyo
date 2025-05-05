@@ -5,8 +5,104 @@
         "products": "Maxsulotlar",
         "contacts": "Aloqa"
     },
-    "HeaderCenterContent":{
-        "category":"Kategoriya",
-        "placeholder":"Nimani qidiryapsiz?"
+    "HeaderCenterContent": {
+        "category": "Kategoriya",
+        "placeholder": "Nimani qidiryapsiz?"
+    },
+    "FooterCantent": {
+        "footer1": "Bizning ijtimoiy tarmoqlarda",
+        "footer2": "Mobil ilovani yuklab oling",
+        "footer3": "© 2022 Ashyo ro’hatdan otgan litsenzalangan bu brend",
+        "footer4": "Menyu",
+        "footer5": "Ashyo haqida",
+        "footer6": "Foydalanish shartlari",
+        "footer7": "Maxfiylik va hafsizlik siyosati",
+        "footer8": "Mahsulotlarni va tovarlarni  qaytarish siyosati",
+        "footer9": "Biz bilan aloqa",
+        "footer10": "Aloqa",
+        "footer11": "Savolingiz bormi?",
+        "footer12": "O’zingiz qiziqtirgan savollarni bering"
+    },
+    "AuthCantent": {
+        "auth1": "Kirish",
+        "auth2": "Ro'yxatdan o'tish",
+        "auth3": "Elektron pochta",
+        "auth4": "Parol",
+        "auth5": "Elektron pochtangizni kiriting",
+        "auth6": "Parolingizni kiriting",
+        "auth7": "To'liq ism",
+        "auth8": "To'liq ismingizni kiriting"
+    },
+    "NaushnikCantent":{
+        "naushkik1":"Musiqa zavqini his qilish uchun ko'p mablag' sarflash shart emas!",
+        "naushkik2":"Batafsil"
+    },
+    "IdCantent": {
+        "id1": "Bosh sahifa",
+        "id2": "Smartfonlar",
+        "id3": "Narxi",
+        "id4":"UZS",
+        "id5":"Oyiga 456 999 uszdan muddatli to’lov",
+        "id6":"Savatga qo‘shish",
+        "id7":"Xarid qilish",
+        "id8": "Yetkazib berish O’zbekiston bo’ylab",
+        "id9": "Do’kondi o’zidan olib ketishingiz mumkin",
+        "id10": "Tahminiy yetkazib berish vaqti 1 kundan 3 kungacha......",
+        "id11": "Telfon xususiyatlari",
+        "id12": "Mijozlarni fikirlari",
+        "id13": "Oxirgi ko’rgan mahsulotlar"
+    },
+    "PageCantent":{
+        "page1":"Eng mashhur mahsulot",
+        "page2":"Mahsulot",
+        "page3":"Chegirmadagi mahsulot",
+        "page4":"Aksiyadagi tovarlar",
+        "page5":"Oxirgi ko’rgan mahsulotlar"
+    },
+    "AbputCantent":{
+        "about1":"Bosh sahifa",
+        "about2":"Ashyo haqida",
+        "about3":"Ashyo 2022 yilda Toshkent shahrida tashkil etylgan.",
+        "about4":"Muddatli to’lov",
+        "about5":"Ashyoda barcha eliktronika maishiy texnikalar uchun qulay onlayn to’lov rejasi",
+        "about6":"To‘lov usullari",
+        "about7":"Siz uchun qulay usulda to’lang do’konda, Cilik, Payme orqali.",
+        "about8":"Yetkazib berish",
+        "about9":"Ashyoda tovarlarni yetkazib berish shartlari.",
+        "about10":"Tavorlarga kafolat",
+        "about11":"Ashyo onlayn do’konining kafolati va qaytarilish haqida hamma narsani bilib oling",
+        "about12":"Yordam",
+        "about13":"Tushumagan narsalaringiz bo’lsa savollaringizni bering",
+        "about14":"Ashyo",
+        "about15":"Ashyo - bozor narhid maishy texnika va electronics dukonlari qurilmalari. 2 oydan davomid mizhozlarga keng assortimentdagi mahsulotlarni, kafolatli va benson hizmatni taklif etib keladi",
+        "about16":"Ashyo 2022 yilda Toshkent shahrida tashkil etylgan. Bugungi kunga qadar jami poytaxtda va viloyatlarda 26 that dukon faoliyat ko'rsatmoqda.",
+        "about17":"Siz tovarlarni har kanday kulay usulda sotib olishingiz mumkin: tarmoq dukonlarida yoki website. Maishy uchun texnikasi onlayn b'lib t'lov rezhashi mavjud. Ruyhatdan utish uchun zarur bulgan huzhzhat - bu pasport.",
+        "about18":"Yuridik shahslar uchun pul o'tkazish yo'li bilan, eng muximi - qo'shimcha to'lovlarsiz sotib olish mumkin",
+        "about19":"Oxirgi ko’rgan mahsulotlar"
+    },
+    "ContactCantent":{
+        "contact1":"Bosh sahifa",
+        "contact2":"Qayta aloqa",
+        "contact3":"Bizning ishimiz haqidagi fikir mulohazalaringiz bilan bo’lishing yoki izohlar maydonida o’zingizni qiziqtirgan savolingizni yo’llang",
+        "contact4":"Ism",
+        "contact5":"Telefon raqam",
+        "contact6":"Familiya",
+        "contact7":"Elktronpochta",
+        "contact8":"O’zingizni fikrlangizni qoldiring",
+        "contact9":"Yuborish",
+        "contact10":"Oxirgi ko’rgan mahsulotlar"
+    },
+    "ProductCantent":{
+        "product1":"Bosh sahifa",
+        "product2":"Smatfonlar",
+        "product3":"Narx",
+        "product4":"so'm",
+        "product5":"..dan",
+        "product6":"..gacha",
+        "product7":"Brendi",
+        "product8":"Tezkor xotira RAM",
+        "product9":"Doimiy xotira ROM",
+        "product10":"Akkumulyator hajmi",
+        "product11":"Oxirgi ko’rgan mahsulotlar"
     }
 }

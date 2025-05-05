@@ -20,7 +20,7 @@ const HeaderPopapCategory = () => {
         <span>{item.name}</span>
         </Link>)}
       </div>
-      <div className="w-[70%] bg-[#ffffff]"></div>
+      <div className="w-[70%] bg-[#ffffff] md:hidden"></div>
     </div>
   )
 }
