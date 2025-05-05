@@ -13,7 +13,7 @@ const Naushnik = () => {
                     <Image className='w-[518px] h-[493] ml-[64px] ' src={"/images/Naushni.png"} alt='Naushni img' width={518} height={493}/>
                 </div>
                 <div className="mt-[90px] mr-[93px]">
-                    <h3 className='w-[438px] text-[32px] font-semibold leading-0% text-[#ffffff] md:hidden'>{t("naushkik1")}</h3>
+                    <h3 className='w-[438px] text-[32px] font-semibold leading-0% text-[#ffffff]'>{t("naushkik1")}</h3>
                     <Button  extrStyle='bg-[#ffffff] mt-[21px] font-medium !text-[#111111] text-[16px] ' title={t("naushkik2")}/>
                 </div>
             </div>
